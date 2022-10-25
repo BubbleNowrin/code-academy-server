@@ -13,6 +13,7 @@
             "two": "It can be used to develop software like operating systems, databases, compilers, and so on.",
             "three": " C programming is an excellent language to learn to program for beginners."
         },
+        "price": "$78",
         "details": "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners.C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs.By learning C, you can be able to understand and visualize the inner workings of computer systems. This can include aspects like allocation and memory management along with their architecture and the overall concepts that drive programming.",
         "image": "https://media.istockphoto.com/photos/word-cloud-tag-cloud-graphics-picture-id525470804?b=1&k=20&m=525470804&s=170667a&w=0&h=HUK2kdUiLMyEn3xddq4E-1xhuVC5e2W3E4B5UvimSXg="
     },
@@ -30,6 +31,7 @@
             "two": "C++ can be found in today's operating systems, Graphical User Interfaces, and embedded systems.",
             "three": "C++ is a high-level general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or C with Classes."
         },
+        "price": "$78",
         "details": "C++ is one of the world's most popular programming languages. C++ can be found in today's operating systems, Graphical User Interfaces, and embedded systems.C++ is a high-level general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or C with Classes.C++ (or “C-plus-plus”) is a general-purpose programming and coding language. C++ is used in developing browsers, operating systems, and applications, as well as in-game programming, software engineering, data structures, etc. C++ Is Everywhere.Also, C++ is used majorly to make operating systems, and almost all operating systems are built using C++, for example, Mac Os, Windows, Linux, etc. Browsers like Safari, Opera, Chrome, Firefox, etc., are written in C++ because it is a fast and efficient language that is why it is preferable",
         "image": "https://media.istockphoto.com/photos/word-cloud-tag-cloud-graphics-picture-id525470828?b=1&k=20&m=525470828&s=170667a&w=0&h=R2wAZPPJ_DbTPeTaN9kbL30tThGAJXGvOGD51BAmN_4="
     },
@@ -47,6 +49,7 @@
             "two": "Java is a popular programming language, created in 1995.It is owned by Oracle, and more than 3 billion devices run Java.",
             "three": "It is used for: 1.Mobile applications (specially Android apps),2.Desktop applications,3.Web applications,4.Web servers and application servers,5.Games,6.Database connection And much, much more!"
         },
+        "price": "$78",
         "details": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.Java is a popular programming language, created in 1995.It is owned by Oracle, and more than 3 billion devices run Java.It is used for: 1.Mobile applications (specially Android apps),2.Desktop applications,3.Web applications,4.Web servers and application servers,5.Games,6.Database connection And much, much more!Java is very versatile as it is used for programming applications on the web, mobile, desktop, etc. using different platforms. Also, Java has many features such as dynamic coding, multiple security features, platform-independent characteristics, network-centric designing, etc. that make it quite versatile",
         "image": "https://media.istockphoto.com/photos/word-cloud-tag-cloud-graphics-picture-id525471018?b=1&k=20&m=525471018&s=170667a&w=0&h=eGc5wUj2MTt2JIPegbq3Oh5_DMK7y0NTAZbjMX1IZos="
     },
@@ -64,6 +67,7 @@
             "two": "Its design philosophy emphasizes code readability with the use of significant indentation.",
             "three": "Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming."
         },
+        "price": "$78",
         "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming.Python is a very popular programming language today and often needs an introduction. It is widely used in various business sectors, such as programming, web development, machine learning, and data science. Given its widespread use, it's not surprising that Python has surpassed Java as the top programming language.",
         "image": "https://media.istockphoto.com/photos/word-cloud-tag-cloud-graphics-picture-id525471200?b=1&k=20&m=525471200&s=170667a&w=0&h=vcia7fGqtL6daO113PxPdgppteiKpN16mBbdXb04JEA="
     },
@@ -81,6 +85,7 @@
             "two": "The open-source tools and high running speed make PHP one of the most preferred languages for creating interactive websites and web applications.",
             "three": "Some of the biggest web platforms of today, including Facebook, Flickr, Yahoo, MailChimp, and Wikipedia, to name a few, use PHP in their end-to-end computing infrastructure."
         },
+        "price": "$78",
         "details": "PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993. The PHP reference implementation is now produced by The PHP Group.The open-source tools and high running speed make PHP one of the most preferred languages for creating interactive websites and web applications. Some of the biggest web platforms of today, including Facebook, Flickr, Yahoo, MailChimp, and Wikipedia, to name a few, use PHP in their end-to-end computing infrastructure.",
         "image": "https://media.istockphoto.com/photos/word-cloud-tag-cloud-graphics-picture-id525471180?b=1&k=20&m=525471180&s=170667a&w=0&h=QMfu0-tPBgu9uRy2tsyeNhkjimeIN2_vCUDhY9eggCE="
     },
@@ -93,6 +98,7 @@
             "number": 4.5,
             "badge": "Excellent"
         },
+        "price": "$78",
         "features": {
             "one": "Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms.",
             "two": "It was designed with an emphasis on programming productivity and simplicity.",
