@@ -15,7 +15,7 @@
         "id": "02",
         "category_name": "Core Concepts of C++",
         "name": "Core Concepts of C++",
-        "total_enrolled": 488,
+        "total_enrolled": 400,
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -27,7 +27,7 @@
         "id": "03",
         "category_name": "Basic Java & JavaScript",
         "name": "Basic Java & JavaScript",
-        "total_enrolled": 488,
+        "total_enrolled": 568,
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -39,7 +39,7 @@
         "id": "04",
         "category_name": "Deep dive into Python",
         "name": "Deep dive into Python",
-        "total_enrolled": 488,
+        "total_enrolled": 800,
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -51,7 +51,7 @@
         "id": "05",
         "category_name": "Intro to PHP",
         "name": "Intro to PHP",
-        "total_enrolled": 488,
+        "total_enrolled": 238,
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -63,7 +63,7 @@
         "id": "06",
         "category_name": "Introduction To Ruby",
         "name": "Introduction To Ruby",
-        "total_enrolled": 488,
+        "total_enrolled": 118,
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
